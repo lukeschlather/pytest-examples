@@ -1,4 +1,4 @@
 .tox
 .cache
 __pycache__
-pytest_examples.egg-info/
+*.egg-info/
